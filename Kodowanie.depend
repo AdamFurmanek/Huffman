@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1553108885 source:d:\programowanie\huffman\projekt\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1553524561 source:d:\programowanie\huffman\projekt dekodowanie\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1555949248 source:d:\programowanie\huffman\projekt dekodowanie — kopia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1556362974 source:d:\programowanie\huffman\kodowanie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1558445754 source:d:\programowanie\huffman\huffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1559408856 source:d:\programowanie\huffman\huffman — kopia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
